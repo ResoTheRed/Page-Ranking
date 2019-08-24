@@ -1,0 +1,16 @@
+ Page 14: 0.11032  Ranking: 1
+ Page 7: 0.09877  Ranking: 2
+ Page 2: 0.09847  Ranking: 3
+ Page 12: 0.09515  Ranking: 4
+ Page 4: 0.07439  Ranking: 5
+ Page 1: 0.06515  Ranking: 6
+ Page 10: 0.06416  Ranking: 7
+ Page 13: 0.06218  Ranking: 8
+ Page 9: 0.06085  Ranking: 9
+ Page 6: 0.05981  Ranking: 10
+ Page 15: 0.04899  Ranking: 11
+ Page 8: 0.04786  Ranking: 12
+ Page 3: 0.03552  Ranking: 13
+ Page 11: 0.03254  Ranking: 14
+ Page 0: 0.03029  Ranking: 15
+ Page 5: 0.01549  Ranking: 16
